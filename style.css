@@ -1,0 +1,15 @@
+#ariana {
+  border: 20px inset purple;
+  padding: 10px;
+  margin: 25px
+}
+
+#slip{
+  border: 20px inset red;
+  padding: 10px;
+  margin: 25px;
+}
+
+p{
+  text-align: justify;
+}
